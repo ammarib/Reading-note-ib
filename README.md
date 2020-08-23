@@ -17,4 +17,4 @@
 
 [Growth Mindset](https://www.atlassian.com/blog/inside-atlassian/growth-mindset)
 
-***Ammar Ibraheem*** **[Gethub](https://github.com/ammarib)**
+***Ammar Ibraheem*** **[Gethub](https://github.com/ammarib) [Linke-in](http://linkedin.com/in/ammar-ebraheem-3a8b9815a)**
