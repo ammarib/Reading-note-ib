@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## The growth mindset
 
 You can use the [editor on GitHub](https://github.com/ammarib/Reading-note-ib/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
