@@ -1,15 +1,13 @@
 ## The growth mindset
 
-You can use the [editor on GitHub](https://github.com/ammarib/Reading-note-ib/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## The growth mindset is the most popular topic now days, and it's the most important thing to keep the developing in our life keeps moving on .
 
-### Markdown
+### Markdownfor me the top three priorities to keep yourself on the growth mindset track are :
+      1. BE compatitive
+      2. learn from your mistakes
+      3. Set your goals and stay motivated
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
 
 # Header 1
 ## Header 2
