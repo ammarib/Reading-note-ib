@@ -1,1 +1,2 @@
-# Reading-note-ib
+# The growth mindset
+## 
