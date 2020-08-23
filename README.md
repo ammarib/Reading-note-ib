@@ -15,6 +15,4 @@
 
 **Read more about growth mindset on below link**
 
-[Link](https://www.atlassian.com/blog/inside-atlassian/growth-mindset)
-
-
+[Growth Mindset](https://www.atlassian.com/blog/inside-atlassian/growth-mindset)
