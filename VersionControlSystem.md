@@ -13,7 +13,7 @@ track modifications and modifying individuals, and compare changes. By utilizing
   process (by eliminating the need to involve all local databases),
   allowed programmers to have more knowledge of team members’ activities with certain files, and gave administrators much more control over divvying up revision privileges.
   
-## Distributed Version Control
+##  Distributed Version Control
 
   A Distributed Version Control systems (DVCS) addresses the major vulnerability of the CVS: the server as a single point of failure. If a CVS goes down,
   collaborators cannot work with each other on a file or save changes and new versions. Also,
@@ -25,7 +25,7 @@ track modifications and modifying individuals, and compare changes. By utilizing
   Because the DVCS allows for multiple mirrored repositories, programmers working in teams can collaborate
   with each other in various ways to complete a joint project, which enables the use of various simultaneous workflows.  
   
- ## what is Git?
+ ##  what is Git?
    Git is a DVCS that stores data in a file system made up of snapshots.
    Each time you save a changed version of your project — called commit — 
     Git creates a snapshot of the file and stores a reference to it.
