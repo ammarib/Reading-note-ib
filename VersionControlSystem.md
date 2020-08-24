@@ -26,6 +26,7 @@ track modifications and modifying individuals, and compare changes. By utilizing
   with each other in various ways to complete a joint project, which enables the use of various simultaneous workflows.  
   
  ##  what is Git?
+ 
    Git is a DVCS that stores data in a file system made up of snapshots.
    Each time you save a changed version of your project — called commit — 
     Git creates a snapshot of the file and stores a reference to it.
